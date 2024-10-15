@@ -9,3 +9,6 @@ __pycache__/
 
 *.log
 *.pot
+.vercel
+samples/
+*.swp
