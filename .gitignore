@@ -1,0 +1,14 @@
+.venv/
+.vscode/
+.vs/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+*.pot
+.vercel
+samples/
+*.swp
